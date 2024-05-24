@@ -47,4 +47,8 @@ VALUES
 -----------------------------------------------------------------------------------
 
 # Query SQL
+-- Query to search for all people from Belgium
+SELECT * FROM "myTable";
+SELECT * FROM "iTable";
+SELECT * FROM "lolTable";
 
